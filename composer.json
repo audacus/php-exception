@@ -1,6 +1,6 @@
 {
     "name": "audacus/php-exception",
     "autoload": {
-        "files": ["AbstractException"]
+        "files": ["AbstractException.php"]
     }
 }
